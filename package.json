@@ -1,0 +1,19 @@
+{
+  "name": "curso",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "cypress-cucumber-preprocessor": {
+    "commonPath": "common",
+    "stepDefinitions": "cypress/integration/step_definitions"
+  },
+  "dependencies": {
+    "cypress": "^4.3.0",
+    "cypress-cucumber-preprocessor": "^2.2.1"
+  }
+}
