@@ -1,5 +1,5 @@
 {
-    "baseUrl": "https://www.google.com",    
+    "baseUrl": "https://miguelgalecio.com.ar/wp",    
     "ignoreTestFiles": "*.js;**/examples/*.js",
     "fixturesFolder": "cypress/fixtures",
     "integrationFolder": "cypress/integration",
